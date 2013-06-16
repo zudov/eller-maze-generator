@@ -1,0 +1,13 @@
+name:		mazeGen
+version:	0.1
+Description: Generates mazes using Eller's algorythm
+License:	GPL
+Author:		Konstantin Zudov
+
+Build-Type:     Simple
+cabal-version: >= 1.2
+
+executable mazeGen
+    build-depends:	base, containers, random
+    main-is:        mazeGen.hs
+

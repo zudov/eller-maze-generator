@@ -1,7 +1,6 @@
 Eller's Algorithm for maze generation
 =====================================
-This is my implementation of algorythm which is described [here](http://www.neocomputer.org/projects/eller.html)
-It creates perfect mazes, here are few examples:
+This is my implementation of algorythm which is described [here](http://www.neocomputer.org/projects/eller.html). It creates perfect mazes, here are few examples:
 
 Small 5x5 maze:
 

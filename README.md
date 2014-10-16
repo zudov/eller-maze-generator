@@ -1,5 +1,7 @@
 Eller's Algorithm for maze generation
 =====================================
+**WARNING**: THIS CODE IS HORRIBLE, H-O-R-R-I-B-L-E. I wrote it when I was a very newbie at haskell. Please, learn no Haskell from it. And please, do not judge my haskell/coding foo based on code in that repo. I gonna refactor^W rewrite that code soon, it's in my DO-SOME-OTHER-DAY list.
+
 This is my implementation of algorythm which is described [here](http://www.neocomputer.org/projects/eller.html). It creates perfect mazes, here are few examples:
 
 Small 5x5 maze:
